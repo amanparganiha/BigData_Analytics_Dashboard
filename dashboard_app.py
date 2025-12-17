@@ -283,7 +283,7 @@ def main():
             - ✅ Processed **41,260,371** SEC financial records (2022-2024)
             - ✅ Analyzed **86,114** unique company submissions
             - ✅ Created **multimodal dataset** with 47 features
-            - ✅ Achieved **100% accuracy** in binary classification
+            - ✅ Achieved **99.0% accuracy** in binary classification
             - ✅ Achieved **95.94% accuracy** in multi-class prediction
             - ✅ Demonstrated **2.32% improvement** from NLP features
             """)
