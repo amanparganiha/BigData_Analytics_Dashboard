@@ -615,7 +615,7 @@ def main():
         with col1:
             fig = go.Figure(go.Indicator(
                 mode="gauge+number+delta",
-                value=98.89,
+                value=99.19,
                 domain={'x': [0, 1], 'y': [0, 1]},
                 delta={'reference': 97.88, 'suffix': '%'},
                 title={'text': "Binary<br><span style='font-size:0.8em'>Investment Grade</span>"},
@@ -645,7 +645,7 @@ def main():
         with col2:
             fig = go.Figure(go.Indicator(
                 mode="gauge+number+delta",
-                value=94.94,
+                value=95.94,
                 domain={'x': [0, 1], 'y': [0, 1]},
                 delta={'reference': 93.76, 'suffix': '%'},
                 title={'text': "Multi-class<br><span style='font-size:0.8em'>Ratings</span>"},
